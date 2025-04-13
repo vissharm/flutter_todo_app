@@ -23,3 +23,5 @@ Setup vs code: https://docs.flutter.dev/get-started/install/windows/mobile
 
 - Flutter SDK: ^3.7.2
 - Dart SDK: ^3.7.2
+
+If anyone apprecitate the effort and want to reward me, please use softvishu@okhdfcbank upi id for the same. It would be nice monetary motivation. Thanks ;)
