@@ -47,12 +47,12 @@ Entry point:  lib/main.dart
 - Run the app using commands mentioned earlier
 
 # In case of any issues, follow below steps for proper cleaning
-flutter clean
+`flutter clean
 flutter pub get
 cd android
 ./gradlew clean
 cd ..
-flutter run
+flutter run`
 
 # You colud also remove build folder also in case of issues
 rm -rf build/
