@@ -3,6 +3,8 @@
 A Flutter application featuring a todo list and user profile management.
 Setup vs code: https://docs.flutter.dev/get-started/install/windows/mobile
 
+I only used VS code for development. I opened android studio for sdk managers to see and install available android sdks.
+
 ## Features
 
 - Todo list management (add, complete, delete tasks)
