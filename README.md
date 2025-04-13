@@ -1,6 +1,7 @@
 # Flutter Todo App
 
 A Flutter application featuring a todo list and user profile management.
+Setup vs code: https://docs.flutter.dev/get-started/install/windows/mobile
 
 ## Features
 
@@ -12,8 +13,11 @@ A Flutter application featuring a todo list and user profile management.
 ## Getting Started
 
 1. Clone the repository
-2. Run `flutter pub get`
-3. Run `flutter run`
+2. Run `flutter clean`
+3. Run `flutter pub get`
+4. Run `flutter emulators`
+5. Run `flutter emulators --launch <emulator_id>`
+7. Run `flutter run`
 
 ## Requirements
 
