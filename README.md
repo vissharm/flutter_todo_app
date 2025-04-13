@@ -56,7 +56,8 @@ flutter run
 rm -rf build/
 rm -rf android/app/build/
 
-
+![image](https://github.com/user-attachments/assets/40a2aa73-2134-43aa-abbf-0492009cc522)
+![image](https://github.com/user-attachments/assets/46128b54-c927-411c-b214-4ef429b11f68)
 
 If anyone apprecitate the effort and want to reward me, please use softvishu@okhdfcbank upi id for the same. It would be nice monetary motivation. Thanks ;)
 
